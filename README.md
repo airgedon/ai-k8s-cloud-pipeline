@@ -4,7 +4,7 @@ FastAPI를 활용한 AI 모델 추론 백엔드 서비스를 구축하고, Docke
 
 ---
 
-## 🛠 주요 기술 스택 (Tech Stack)
+## 주요 기술 스택 (Tech Stack)
 
 - **Backend & AI:** Python, FastAPI, Hugging Face (Transformers), PyTorch
 - **Container & Orchestration:** Docker, Kubernetes (CKA)
